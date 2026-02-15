@@ -48,3 +48,4 @@ while True:
 # Switch to manual mode if you need to see the final output
 io.interactive()
 ```
+**flag: DCTF{55cdfe07fae36a30c2c8d0738fdcd3f7718e4898f8585b142f7eaf2f269a0deb}**
