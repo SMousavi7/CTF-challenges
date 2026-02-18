@@ -1,6 +1,6 @@
-# Discription of question: 
+# Discription of question 
 You have some simple questions. But you need to be fast.
-# Solution:
+# Solution
 In this question, they give us an Ip and a port which we should connect to them. If you write this Ip and port in chrome, you wouldn't get anything. That's because the response of the server is just a raw text. 
 So what should we do? We should write a script to first connect to that Ip and port and then get the text of the questions and answer them. The questions are some simple number questions but what makes this challenge a bit hard is that you had a very very short time to answer them, which means you can't like write the numbers in the online websites and copy paste the answer of them in terminal. You must write a script for that. Here is the script I used for this question (especial thanks to gemini):
 ```python
